@@ -1,3 +1,5 @@
+[My AI Journey](img.webp "My AI Journey") { width=300px align=center }
+
 ## My Journey into the World of AI: A Review of Alura & Google's IA Immersion
 
 This journey of discovery has equipped me with essential skills to succeed in the exciting field of AI.
