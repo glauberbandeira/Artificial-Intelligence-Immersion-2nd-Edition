@@ -1,4 +1,7 @@
-[alt text](img/img.webp "My AI Journey") { width=300px align=center }
+<div align="center">
+  <img src="img/img.png" alt="My AI Journey" />
+</div>
+
 
 ## My Journey into the World of AI: A Review of Alura & Google's IA Immersion
 
