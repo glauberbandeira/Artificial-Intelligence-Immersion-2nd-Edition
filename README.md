@@ -1,4 +1,4 @@
-[My AI Journey](img.webp "My AI Journey") { width=300px align=center }
+[alt text](img/img.webp "My AI Journey") { width=300px align=center }
 
 ## My Journey into the World of AI: A Review of Alura & Google's IA Immersion
 
